@@ -1,6 +1,1 @@
-<svg width="326" height="10" viewBox="0 0 326 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 4.5H324" stroke="#FEEAE8" stroke-width="3" stroke-linecap="square"/>
-<path d="M3 4.5H319" stroke="#FA7268" stroke-width="3" stroke-linecap="square"/>
-<circle cx="5" cy="5" r="3.5" fill="white" stroke="#FA7268" stroke-width="3"/>
-<circle cx="319" cy="5" r="3.5" fill="white" stroke="#FA7268" stroke-width="3"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="326" height="10" fill="none" viewBox="0 0 326 10"><path stroke="#FEEAE8" stroke-linecap="square" stroke-width="3" d="M3 4.5H324"/><path stroke="#FA7268" stroke-linecap="square" stroke-width="3" d="M3 4.5H319"/><circle cx="5" cy="5" r="3.5" fill="#fff" stroke="#FA7268" stroke-width="3"/><circle cx="319" cy="5" r="3.5" fill="#fff" stroke="#FA7268" stroke-width="3"/></svg>
